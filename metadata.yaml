@@ -1,5 +1,5 @@
 _repo: The-Translation-of-a-Savage-Volume-3_6213
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Indians of North America -- Fiction'
 - !lcc 'PS'
 - !lcsh 'England -- Social life and customs -- Fiction'
+- GITenberg
 title: The Translation of a Savage, Volume 3
 url: http://www.gutenberg.org/ebooks/6213
